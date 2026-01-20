@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Icon/stok_buah_2-removebg-preview.png</file>
+    <file>Icon/buah-removebg-preview.png</file>
+    <file>Icon/coin-removebg-preview.png</file>
+    <file>Icon/stok_buah-removebg-preview.png</file>
+    <file>Icon/keranjang-removebg-preview.png</file>
+    <file>Icon/tambah3-removebg-preview.png</file>
+    <file>Icon/dashboard_16596683.png</file>
+    <file>Icon/keluar-removebg-preview.png</file>
+    <file>Icon/Laporan_2-removebg-preview.png</file>
+    <file>Icon/Laporan_3-removebg-preview.png</file>
+    <file>Icon/Laporan-removebg-preview.png</file>
+    <file>Icon/layout.png</file>
+    <file>Icon/menu.png</file>
+    <file>Icon/menu_3388614.png</file>
+    <file>Icon/menu2-removebg-preview.png</file>
+    <file>Icon/Pemesanan.png</file>
+    <file>Icon/product_13368825.png</file>
+    <file>Icon/produk-removebg-preview.png</file>
+    <file>Icon/profil2-removebg-preview.png</file>
+    <file>Icon/profil-removebg-preview.png</file>
+    <file>Icon/sayur.png</file>
+    <file>Icon/sayur-removebg-preview.png</file>
+    <file>Icon/search2.png</file>
+    <file>Icon/search-removebg-preview.png</file>
+    <file>Icon/stok2.png</file>
+    <file>Icon/stok-removebg-preview.png</file>
+    <file>Icon/transaksi2-removebg-preview.png</file>
+    <file>Icon/transaksi-removebg-preview.png</file>
+  </qresource>
+</RCC>
